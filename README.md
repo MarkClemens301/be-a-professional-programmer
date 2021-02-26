@@ -288,7 +288,7 @@
 - wireshark：知名的网络数据包分析工具
 - PowerCmd:替代Windows Cmd的利器，类似的还有[cmder](http://cmder.net/)
 - [MobaXterm](https://mobaxterm.mobatek.net/): Windows下的全能终端神器
-- [Xming](https://sourceforge.net/projects/xming/): Windows下的X Window Server，结合putty可以实现linux的图形化软件直接跑在Windows上 
+- [Xming](https://sourceforge.net/projects/xming/): Windows下的X Window Server，结合putty可以实现linux的图形化软件直接跑在Windows上
 - RegexBuddy:强大的正则表达式测试工具
 - Source Insight：源代码阅读神器
 - SublimeText：程序员最爱的编辑器
@@ -355,7 +355,7 @@
 ### 安全相关
 
 - sql注入检测：sqlmap、haviji
-- 端口扫描：nmap, 
+- 端口扫描：nmap,
 - [masscan](https://github.com/robertdavidgraham/masscan)：据说可以6分钟中扫遍整个互联网的端口扫描器
 - 渗透测试：BurpLoader
 - sqltools: sql漏洞利用工具
@@ -405,7 +405,7 @@
 - 数据源获取：Flume、Google Refine、Needlebase、ScraperWiki、BloomReach
 - 序列化技术：JSON、BSON、Thrift、Avro、Google Protocol Buffers
 - NoSql：ScyllaDB（宣称是世界上最快的NoSql）、Apache Casandra、MongoDB、Apache CouchDB、Redis、BigTable、HBase、Hypertable、Voldemort、Neo4j
-- MapReduce相关：Hive、Pig、Cascading、Cascalog、mrjob、Caffeine、S4、MapR、Acunu、Flume、Kafka、Azkaban、Oozie、Greenplum 
+- MapReduce相关：Hive、Pig、Cascading、Cascalog、mrjob、Caffeine、S4、MapR、Acunu、Flume、Kafka、Azkaban、Oozie、Greenplum
 - 数据处理：R、Yahoo! Pipes、Mechanical Turk、Solr/ Lucene、ElasticSearch、Datameer、Bigsheets、Tinkerpop
 - NLP自然语言处理：Natural Language Toolkit、Apache OpenNLP、Boilerpipe、OpenCalais
 - 机器学习：TensorFlow（Google出品），WEKA、Mahout、scikits.learn、SkyTree
@@ -657,4 +657,3 @@
 - 环形缓冲区，实时数据传输用
 - SDL,ffmpeg,live555,Speex
 - Red5:用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。
-
